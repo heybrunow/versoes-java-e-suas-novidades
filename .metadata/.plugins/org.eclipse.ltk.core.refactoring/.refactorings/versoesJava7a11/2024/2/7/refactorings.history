@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;br.com.versaooito.lambda.UsoDaLambda&apos; to &apos;UsoDaLambdaSemParametros&apos;&#x0D;&#x0A;- Original project: &apos;versoesJava7a11&apos;&#x0D;&#x0A;- Original element: &apos;br.com.versaooito.lambda.UsoDaLambda&apos;&#x0D;&#x0A;- Renamed element: &apos;br.com.versaooito.lambda.UsoDaLambdaSemParametros&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;UsoDaLambda&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;br.com.versaooito.lambda{UsoDaLambda.java[UsoDaLambda" matchStrategy="1" name="UsoDaLambdaSemParametros" qualified="false" references="true" similarDeclarations="false" stamp="1708111264606" textual="false" version="1.0"/>
+</session>

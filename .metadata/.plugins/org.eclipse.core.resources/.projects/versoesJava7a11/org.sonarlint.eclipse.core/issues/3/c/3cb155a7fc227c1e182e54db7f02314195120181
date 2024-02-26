@@ -1,0 +1,26 @@
+
+Y
+java:S1604"(Make this anonymous inner class a lambda(Ç¦ˆ‡ÿÿÿÿÿH”RMAJORZ
+CODE_SMELL
+d	java:S106"9Replace this use of System.out or System.err by a logger.(µÆ†ÈH•RMAJORZ
+CODE_SMELL
+i	java:S106"9Replace this use of System.out or System.err by a logger.(™ûöÜşÿÿÿÿH–RMAJORZ
+CODE_SMELL
+d	java:S106"9Replace this use of System.out or System.err by a logger.(ç÷¨ H—RMAJORZ
+CODE_SMELL
+i	java:S106 "9Replace this use of System.out or System.err by a logger.(¹ß€ïúÿÿÿÿH˜RMAJORZ
+CODE_SMELL
+d	java:S106#"9Replace this use of System.out or System.err by a logger.(»ã˜ƒH™RMAJORZ
+CODE_SMELL
+c
+java:S1611$"2Remove the parentheses around the "nome" parameter(ô»ê…ûÿÿÿÿHšRMINORZ
+CODE_SMELL
+q
+java:S1612$"@Replace this lambda with method reference 'System.out::println'.(ô»ê…ûÿÿÿÿH›RMINORZ
+CODE_SMELL
+i	java:S106$"9Replace this use of System.out or System.err by a logger.(ô»ê…ûÿÿÿÿHRMAJORZ
+CODE_SMELL
+i	java:S1067"9Replace this use of System.out or System.err by a logger.(Ä´­°şÿÿÿÿHRMAJORZ
+CODE_SMELL
+i	java:S106@"9Replace this use of System.out or System.err by a logger.(‘Óç·ıÿÿÿÿHŸRMAJORZ
+CODE_SMELL

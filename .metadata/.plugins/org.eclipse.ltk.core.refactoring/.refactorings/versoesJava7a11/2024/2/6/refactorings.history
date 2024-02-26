@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;br.com.versaooito.objects.usoDoObjects&apos; to &apos;UsoDoObjects&apos;&#x0D;&#x0A;- Original project: &apos;versoesJava7a11&apos;&#x0D;&#x0A;- Original element: &apos;br.com.versaooito.objects.usoDoObjects&apos;&#x0D;&#x0A;- Renamed element: &apos;br.com.versaooito.objects.UsoDoObjects&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;usoDoObjects&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;br.com.versaooito.objects{usoDoObjects.java[usoDoObjects" matchStrategy="1" name="UsoDoObjects" qualified="false" references="true" similarDeclarations="false" stamp="1707506109356" textual="false" version="1.0"/>
+</session>
