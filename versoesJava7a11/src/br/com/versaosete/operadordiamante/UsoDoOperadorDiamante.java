@@ -8,7 +8,7 @@ public class UsoDoOperadorDiamante {
 	public static void main(String[] args) {
 		
 		//Lista tipada em String só permite adição de Strings na lista
-		List<String>lista  = new ArrayList();
+		List<String>lista  = new ArrayList<>();
 		
 		lista.add("jose");
 		lista.add("mario");
